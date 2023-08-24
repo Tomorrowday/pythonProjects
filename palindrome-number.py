@@ -33,4 +33,4 @@ class Solution:
         return self.__output
 
 s = Solution()
-print(s.getIntLength(10))
+print(s.isPalindrome(101101))
